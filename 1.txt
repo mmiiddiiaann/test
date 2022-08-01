@@ -21,4 +21,4 @@ SELECT * FROM public.publicchannels
 ORDER BY id ASC 
 
 
-bots: id: 9fhk1nu5ujdbjp3gyttbund15y
+bots: id: 9fhk1nu5ujdbjp3gyttbund15y asdfas

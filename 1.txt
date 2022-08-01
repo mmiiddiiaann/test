@@ -12,3 +12,13 @@ type: D
 
 
 dsd asd
+
+SELECT * FROM public.channels
+ORDER BY id ASC 
+
+
+SELECT * FROM public.publicchannels
+ORDER BY id ASC 
+
+
+sdfas
